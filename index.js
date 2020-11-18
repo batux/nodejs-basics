@@ -14,6 +14,7 @@ function solveRect(l,b) {
     }
 }
 
+// dummy comment
 solveRect(3,4);
 solveRect(6,2);
 solveRect(10,1);
